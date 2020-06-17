@@ -1,5 +1,5 @@
 # Summary
-Alpine image with boringssl
+Alpine image with [https://boringssl.googlesource.com/boringssl/](boringssl), Google's openssl fork
 
 uses multi-stage docker build to keep final image small
 
